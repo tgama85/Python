@@ -15,3 +15,18 @@ Plano de construção de algoritmos:
  - Ordenar atividades
  - Traduzir para códigos
  - Obter solução do problema
+ 
+## Capítulo 3
+
+**Condicionais, laços de repetição e listas**
+ - Condicionais if/else/elif
+ - Laços de repetição for e while
+ - Jogo de advinhação de número
+ 
+## Capítulo 4
+
+**Funções**
+ - Noções de funções
+ - Variáveis locais e globais - funções
+ - Funções úteis no Python
+
