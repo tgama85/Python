@@ -1,6 +1,6 @@
 # Estudos do livro Python: guia prático do básico ao avançado
 
-![Capa](https://imgur.com/gallery/8z07Hsv)
+!(https://imgur.com/gallery/8z07Hsv)
 
 ## Capítulo 1
 
