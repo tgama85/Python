@@ -34,3 +34,5 @@ Plano de construção de algoritmos:
 
 **I/O de arquivos**
  - Modo de manipulação de arquivos (read, write, append, binary)
+ - Arquivos csv
+ - Trabalhando com diretórios
