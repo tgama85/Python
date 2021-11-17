@@ -30,3 +30,7 @@ Plano de construção de algoritmos:
  - Variáveis locais e globais - funções
  - Funções úteis no Python
 
+## Capítulo 5
+
+**I/O de arquivos**
+ - Modo de manipulação de arquivos (read, write, append, binary)
